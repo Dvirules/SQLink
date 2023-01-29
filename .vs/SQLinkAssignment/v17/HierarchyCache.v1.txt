@@ -1,0 +1,1565 @@
+﻿++Solution 'SQLinkAssignment' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:SQLinkAssignment.sln
+++Page.Site
+i:{00000000-0000-0000-0000-000000000000}:Page.Site
+++Connected Services 
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>1493
+++Dependencies
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>1492
+++Imports
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>669
+++Properties
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\properties\
+++wwwroot
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\wwwroot\
+++media
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\wwwroot\media\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\views\media\
+++favicon.ico
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\wwwroot\favicon.ico
+++bin
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\
+++obj
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\
+++umbraco
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\
+++Views
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\views\
+++MacroPartials
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\macropartials\
+++Partials
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\
+++_ViewImports.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\_viewimports.cshtml
+++Page.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\page.cshtml
+++appsettings.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\appsettings.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\appsettings.json
+++appsettings-schema.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\appsettings-schema.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\appsettings-schema.json
+++Program.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\program.cs
+++Startup.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\startup.cs
+++No service dependencies discovered
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>1494
+++Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:analyzers
+++Frameworks
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:frameworks
+++Packages
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:packages
+++Sdk.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\sdk\sdk.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.illink.tasks\sdk\sdk.props
+++Sdk.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\sdk\sdk.targets
+++launchSettings.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\properties\launchsettings.json
+++Debug
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\
+++Release
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\release\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\
+++Page.Site.csproj.nuget.dgspec.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\page.site.csproj.nuget.dgspec.json
+++Page.Site.csproj.nuget.g.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\page.site.csproj.nuget.g.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\page.site.csproj.nuget.g.props
+++Page.Site.csproj.nuget.g.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\page.site.csproj.nuget.g.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\page.site.csproj.nuget.g.targets
+++project.assets.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\project.assets.json
+++project.nuget.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\project.nuget.cache
+++staticwebassets.pack.sentinel
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\staticwebassets.pack.sentinel
+++Data
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\
+++Logs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\logs\
+++models
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\
+++blocklist
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\blocklist\
+++grid
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\
+++appsettings.Development.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\appsettings.development.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\appsettings.development.json
+++Lucene.Net.CodeAnalysis.CSharp
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\lucene.net\4.8.0-beta00016\analyzers\dotnet\cs\lucene.net.codeanalysis.csharp.dll
+++Microsoft.AspNetCore.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.13\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.13\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\microsoft.netcore.app
+++Microsoft.ICU.ICU4C.Runtime (68.2.0.9)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>1505
+++Umbraco.Cms (10.1.0)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:>1506
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.props
+++Sdk.props (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\sdk\sdk.props
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Razor\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Web.ProjectSystem\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web.projectsystem\sdk\sdk.targets
+++Sdk.targets (C:\Program Files\dotnet\sdk\6.0.308\Sdks\Microsoft.NET.Sdk.Publish\Sdk)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\sdk\sdk.targets
+++net6.0
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\release\net6.0\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\lib\net6.0\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\
+++TEMP
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\
+++Umbraco.sqlite.db
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\umbraco.sqlite.db
+++Umbraco.sqlite.db-shm
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\umbraco.sqlite.db-shm
+++Umbraco.sqlite.db-wal
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\umbraco.sqlite.db-wal
+++UmbracoTraceLog.DESKTOP-PH52O9O.20230126.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\logs\umbracotracelog.desktop-ph52o9o.20230126.json
+++UmbracoTraceLog.DESKTOP-PH52O9O.20230129.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\logs\umbracotracelog.desktop-ph52o9o.20230129.json
+++File.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\file.generated.cs
+++Folder.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\folder.generated.cs
+++Image.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\image.generated.cs
+++Member.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\member.generated.cs
+++ood.flag
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\ood.flag
+++Page.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\page.generated.cs
+++UmbracoMediaArticle.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\umbracomediaarticle.generated.cs
+++UmbracoMediaAudio.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\umbracomediaaudio.generated.cs
+++UmbracoMediaVectorGraphics.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\umbracomediavectorgraphics.generated.cs
+++UmbracoMediaVideo.generated.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\models\umbracomediavideo.generated.cs
+++default.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\blocklist\default.cshtml
+++editors
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\
+++bootstrap3.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\bootstrap3.cshtml
+++bootstrap3-fluid.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\bootstrap3-fluid.cshtml
+++Microsoft.Common.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.props
+++Microsoft.NET.Sdk.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.props
+++Sdk.Razor.CurrentVersion.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.props
+++Microsoft.NET.Sdk.Web.ProjectSystem.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.props
+++Microsoft.NET.Sdk.Publish.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.props
+++Microsoft.NET.Sdk.BeforeCommon.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.beforecommon.targets
+++Microsoft.CSharp.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.targets
+++Microsoft.NET.Sdk.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.targets
+++Microsoft.NET.Compatibility.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.targets
+++NuGet.Build.Tasks.Pack.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\nuget.build.tasks.pack\build\nuget.build.tasks.pack.targets
+++Sdk.Razor.CurrentVersion.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\sdk.razor.currentversion.targets
+++Microsoft.NET.Sdk.Web.ProjectSystem.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.projectsystem.targets
+++Microsoft.NET.Sdk.Publish.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\microsoft.net.sdk.publish.targets
+++cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\cs\
+++de
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\de\
+++es
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\es\
+++fr
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\fr\
+++it
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\it\
+++ja
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ja\
+++ko
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ko\
+++pl
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pl\
+++pt-BR
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pt-br\
+++ref
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ref\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\release\net6.0\ref\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\ref\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\ref\
+++refs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\
+++ru
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ru\
+++runtimes
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\
+++tr
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\tr\
+++zh-Hans
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hans\
+++zh-Hant
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hant\
+++Azure.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\azure.core.dll
+++Azure.Identity.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\azure.identity.dll
+++BouncyCastle.Crypto.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\bouncycastle.crypto.dll
+++CSharpTest.Net.Collections.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\csharptest.net.collections.dll
+++Dazinator.Extensions.FileProviders.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\dazinator.extensions.fileproviders.dll
+++DotNet.Glob.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\dotnet.glob.dll
+++Examine.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\examine.core.dll
+++Examine.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\examine.dll
+++Examine.Lucene.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\examine.lucene.dll
+++HtmlAgilityPack.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\htmlagilitypack.dll
+++J2N.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\j2n.dll
+++K4os.Compression.LZ4.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\k4os.compression.lz4.dll
+++Lucene.Net.Analysis.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.analysis.common.dll
+++Lucene.Net.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.dll
+++Lucene.Net.Facet.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.facet.dll
+++Lucene.Net.Grouping.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.grouping.dll
+++Lucene.Net.Join.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.join.dll
+++Lucene.Net.Queries.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.queries.dll
+++Lucene.Net.QueryParser.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.queryparser.dll
+++Lucene.Net.Replicator.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.replicator.dll
+++Lucene.Net.Sandbox.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\lucene.net.sandbox.dll
+++MailKit.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\mailkit.dll
+++Markdown.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\markdown.dll
+++MessagePack.Annotations.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\messagepack.annotations.dll
+++MessagePack.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\messagepack.dll
+++Microsoft.AspNetCore.Cryptography.Internal.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.cryptography.internal.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.cryptography.internal.dll
+++Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.cryptography.keyderivation.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.cryptography.keyderivation.dll
+++Microsoft.AspNetCore.JsonPatch.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.jsonpatch.dll
+++Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.mvc.newtonsoftjson.dll
+++Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.mvc.razor.extensions.dll
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.dll
+++Microsoft.AspNetCore.Razor.Language.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.aspnetcore.razor.language.dll
+++Microsoft.Bcl.AsyncInterfaces.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.bcl.asyncinterfaces.dll
+++Microsoft.CodeAnalysis.CSharp.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.codeanalysis.csharp.dll
+++Microsoft.CodeAnalysis.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.codeanalysis.dll
+++Microsoft.CodeAnalysis.Razor.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.codeanalysis.razor.dll
+++Microsoft.Data.SqlClient.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\microsoft.data.sqlclient.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.data.sqlclient.dll
+++Microsoft.Data.Sqlite.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.data.sqlite.dll
+++Microsoft.Extensions.DependencyModel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.extensions.dependencymodel.dll
+++Microsoft.Extensions.FileProviders.Embedded.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.extensions.fileproviders.embedded.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.fileproviders.embedded.dll
+++Microsoft.Extensions.Identity.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.extensions.identity.core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.identity.core.dll
+++Microsoft.Extensions.Identity.Stores.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.extensions.identity.stores.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.identity.stores.dll
+++Microsoft.Identity.Client.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identity.client.dll
+++Microsoft.Identity.Client.Extensions.Msal.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identity.client.extensions.msal.dll
+++Microsoft.IdentityModel.JsonWebTokens.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identitymodel.jsonwebtokens.dll
+++Microsoft.IdentityModel.Logging.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identitymodel.logging.dll
+++Microsoft.IdentityModel.Protocols.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identitymodel.protocols.dll
+++Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identitymodel.protocols.openidconnect.dll
+++Microsoft.IdentityModel.Tokens.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.identitymodel.tokens.dll
+++Microsoft.IO.RecyclableMemoryStream.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.io.recyclablememorystream.dll
+++Microsoft.Win32.SystemEvents.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\microsoft.win32.systemevents.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\microsoft.win32.systemevents.dll
+++MimeKit.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\mimekit.dll
+++MiniProfiler.AspNetCore.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\miniprofiler.aspnetcore.dll
+++MiniProfiler.AspNetCore.Mvc.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\miniprofiler.aspnetcore.mvc.dll
+++MiniProfiler.Shared.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\miniprofiler.shared.dll
+++NCrontab.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ncrontab.dll
+++Newtonsoft.Json.Bson.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\newtonsoft.json.bson.dll
+++Newtonsoft.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\newtonsoft.json.dll
+++NPoco.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\npoco.dll
+++NPoco.SqlServer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\npoco.sqlserver.dll
+++NUglify.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\nuglify.dll
+++Page.Site.deps.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.deps.json
+++Page.Site.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\ref\page.site.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ref\page.site.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.dll
+++Page.Site.exe
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.exe
+++Page.Site.pdb
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.pdb
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.pdb
+++Page.Site.runtimeconfig.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.runtimeconfig.json
+++Page.Site.staticwebassets.runtime.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\page.site.staticwebassets.runtime.json
+++Polly.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\polly.dll
+++Serilog.AspNetCore.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.aspnetcore.dll
+++Serilog.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.dll
+++Serilog.Enrichers.Process.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.enrichers.process.dll
+++Serilog.Enrichers.Thread.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.enrichers.thread.dll
+++Serilog.Expressions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.expressions.dll
+++Serilog.Extensions.Hosting.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.extensions.hosting.dll
+++Serilog.Extensions.Logging.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.extensions.logging.dll
+++Serilog.Formatting.Compact.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.formatting.compact.dll
+++Serilog.Formatting.Compact.Reader.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.formatting.compact.reader.dll
+++Serilog.Settings.Configuration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.settings.configuration.dll
+++Serilog.Sinks.Async.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.sinks.async.dll
+++Serilog.Sinks.Console.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.sinks.console.dll
+++Serilog.Sinks.Debug.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.sinks.debug.dll
+++Serilog.Sinks.File.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.sinks.file.dll
+++Serilog.Sinks.Map.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\serilog.sinks.map.dll
+++SixLabors.ImageSharp.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\sixlabors.imagesharp.dll
+++SixLabors.ImageSharp.Web.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\sixlabors.imagesharp.web.dll
+++Smidge.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\smidge.core.dll
+++Smidge.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\smidge.dll
+++Smidge.InMemory.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\smidge.inmemory.dll
+++Smidge.Nuglify.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\smidge.nuglify.dll
+++SQLitePCLRaw.batteries_v2.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\sqlitepclraw.batteries_v2.dll
+++SQLitePCLRaw.core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\sqlitepclraw.core.dll
+++SQLitePCLRaw.provider.e_sqlite3.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\sqlitepclraw.provider.e_sqlite3.dll
+++System.Configuration.ConfigurationManager.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.configuration.configurationmanager.dll
+++System.Drawing.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\lib\net6.0\system.drawing.common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\system.drawing.common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.drawing.common.dll
+++System.IdentityModel.Tokens.Jwt.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.identitymodel.tokens.jwt.dll
+++System.Linq.Async.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.linq.async.dll
+++System.Net.IPNetwork.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.net.ipnetwork.dll
+++System.Runtime.Caching.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\system.runtime.caching.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.runtime.caching.dll
+++System.Security.Cryptography.Pkcs.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.pkcs.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.security.cryptography.pkcs.dll
+++System.Security.Cryptography.ProtectedData.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\system.security.cryptography.protecteddata.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.security.cryptography.protecteddata.dll
+++System.Security.Permissions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.security.permissions.dll
+++System.Threading.AccessControl.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\system.threading.accesscontrol.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.threading.accesscontrol.dll
+++System.Windows.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\net6.0\system.windows.extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\system.windows.extensions.dll
+++Umbraco.Cms.Persistence.Sqlite.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.cms.persistence.sqlite.dll
+++Umbraco.Cms.Persistence.SqlServer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.cms.persistence.sqlserver.dll
+++Umbraco.Cms.StaticAssets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.cms.staticassets.dll
+++Umbraco.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.core.dll
+++Umbraco.Examine.Lucene.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.examine.lucene.dll
+++Umbraco.Infrastructure.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.infrastructure.dll
+++Umbraco.PublishedCache.NuCache.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.publishedcache.nucache.dll
+++Umbraco.Web.BackOffice.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.web.backoffice.dll
+++Umbraco.Web.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.web.common.dll
+++Umbraco.Web.Website.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\umbraco.web.website.dll
+++refint
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\refint\
+++staticwebassets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\staticwebassets\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\staticwebassets\
+++.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\.netcoreapp,version=v6.0.assemblyattributes.cs
+++apphost.exe
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\apphost.exe
+++Page.Site.AssemblyInfo.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.assemblyinfo.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.assemblyinfo.cs
+++Page.Site.AssemblyInfoInputs.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.assemblyinfoinputs.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.assemblyinfoinputs.cache
+++Page.Site.assets.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.assets.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.assets.cache
+++Page.Site.csproj.AssemblyReference.cache
+++Page.Site.csproj.CopyComplete
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.csproj.copycomplete
+++Page.Site.csproj.CoreCompileInputs.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.csproj.corecompileinputs.cache
+++Page.Site.csproj.FileListAbsolute.txt
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.csproj.filelistabsolute.txt
+++Page.Site.GeneratedMSBuildEditorConfig.editorconfig
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.generatedmsbuildeditorconfig.editorconfig
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.generatedmsbuildeditorconfig.editorconfig
+++Page.Site.genruntimeconfig.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.genruntimeconfig.cache
+++Page.Site.GlobalUsings.g.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.globalusings.g.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.globalusings.g.cs
+++Page.Site.MvcApplicationPartsAssemblyInfo.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.mvcapplicationpartsassemblyinfo.cache
+++Page.Site.MvcApplicationPartsAssemblyInfo.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.mvcapplicationpartsassemblyinfo.cs
+++Page.Site.RazorAssemblyInfo.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.razorassemblyinfo.cache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.razorassemblyinfo.cache
+++Page.Site.RazorAssemblyInfo.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\page.site.razorassemblyinfo.cs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\release\net6.0\page.site.razorassemblyinfo.cs
+++project.razor.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\project.razor.json
+++staticwebassets.build.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\staticwebassets.build.json
+++staticwebassets.development.json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\obj\debug\net6.0\staticwebassets.development.json
+++DistCache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\distcache\
+++ExamineIndexes
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\
+++FileUploads
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\fileuploads\
+++InMemoryAuto
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\inmemoryauto\
+++NuCache
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\nucache\
+++MainDom_7f902e551055c83b57efeeb9c16e7e57642ad146.lock
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\maindom_7f902e551055c83b57efeeb9c16e7e57642ad146.lock
+++MainDom_c626a62fc5694f83fd67b542288cddf3c45112f7.lock
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\maindom_c626a62fc5694f83fd67b542288cddf3c45112f7.lock
+++base.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\base.cshtml
+++embed.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\embed.cshtml
+++macro.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\macro.cshtml
+++media.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\media.cshtml
+++rte.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\rte.cshtml
+++textstring.cshtml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\views\partials\grid\editors\textstring.cshtml
+++Microsoft.NuGet.ImportBefore.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\imports\microsoft.common.props\importbefore\microsoft.nuget.importbefore.props
+++NuGet.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.props
+++Microsoft.NET.Sdk.DefaultItems.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.props
+++Microsoft.NET.Sdk.ImportWorkloads.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.props
+++Microsoft.NET.SupportedTargetFrameworks.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.supportedtargetframeworks.props
+++Microsoft.NET.SupportedPlatforms.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.supportedplatforms.props
+++Microsoft.NET.WindowsSdkSupportedTargetPlatforms.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.windowssdksupportedtargetplatforms.props
+++Microsoft.NET.Sdk.CSharp.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.props
+++Microsoft.NET.ILLink.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.illink.props
+++Microsoft.NET.Compatibility.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.props
+++Microsoft.NET.PackTool.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.props
+++Microsoft.NET.PackProjectTool.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.props
+++Microsoft.NET.Sdk.WindowsDesktop.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.props
+++Microsoft.NET.Windows.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.windows.props
+++Sdk.Razor.StaticAssets.ProjectSystem.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\sdk\sdk.razor.staticassets.projectsystem.props
+++Microsoft.TypeScript.Default.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.default.props
+++Microsoft.NET.Sdk.Web.DefaultItems.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.web.projectsystem\targets\microsoft.net.sdk.web.defaultitems.props
+++Microsoft.NET.DefaultAssemblyInfo.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.defaultassemblyinfo.targets
+++Microsoft.NET.DefaultOutputPaths.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.defaultoutputpaths.targets
+++Microsoft.NET.Sdk.ImportPublishProfile.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importpublishprofile.targets
+++Microsoft.NET.TargetFrameworkInference.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.targetframeworkinference.targets
+++Microsoft.NET.Sdk.Razor.BeforeCommon.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.beforecommon.targets
+++Microsoft.NET.Sdk.ImportWorkloads.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.importworkloads.targets
+++Microsoft.NET.RuntimeIdentifierInference.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.runtimeidentifierinference.targets
+++Microsoft.NET.EolTargetFrameworks.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.eoltargetframeworks.targets
+++Microsoft.NET.NuGetOfflineCache.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.nugetofflinecache.targets
+++Microsoft.Managed.Before.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.before.targets
+++Microsoft.CSharp.CurrentVersion.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.csharp.currentversion.targets
+++Microsoft.Managed.After.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.managed.after.targets
+++Microsoft.NET.Sdk.Common.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.common.targets
+++Microsoft.PackageDependencyResolution.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.packagedependencyresolution.targets
+++Microsoft.NET.Sdk.DefaultItems.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.targets
+++Microsoft.NET.Sdk.FrameworkReferenceResolution.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.frameworkreferenceresolution.targets
+++Microsoft.NET.Sdk.Shared.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.shared.targets
+++Microsoft.NET.DisableStandardFrameworkResolution.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.disablestandardframeworkresolution.targets
+++Microsoft.NET.DesignerSupport.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.designersupport.targets
+++Microsoft.NET.GenerateAssemblyInfo.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.generateassemblyinfo.targets
+++Microsoft.NET.GenerateGlobalUsings.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.generateglobalusings.targets
+++Microsoft.NET.GenerateSupportedRuntime.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.generatesupportedruntime.targets
+++Microsoft.NET.ComposeStore.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.composestore.targets
+++Microsoft.NET.CrossGen.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.crossgen.targets
+++Microsoft.NET.ObsoleteReferences.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.obsoletereferences.targets
+++Microsoft.NET.Publish.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.publish.targets
+++Microsoft.NET.PackTool.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.packtool.targets
+++Microsoft.NET.PackProjectTool.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.packprojecttool.targets
+++Microsoft.NET.PreserveCompilationContext.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.preservecompilationcontext.targets
+++Microsoft.NET.ConflictResolution.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.conflictresolution.targets
+++Microsoft.NET.Sdk.CSharp.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.csharp.targets
+++Microsoft.NET.ILLink.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.illink.targets
+++Microsoft.NET.Sdk.Analyzers.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.analyzers.targets
+++Microsoft.NET.Compatibility.Common.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.compatibility.common.targets
+++Microsoft.NET.Sdk.Razor.Configuration.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.configuration.targets
+++Microsoft.NET.Sdk.Razor.CodeGeneration.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.codegeneration.targets
+++Microsoft.NET.Sdk.Razor.SourceGenerators.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.sourcegenerators.targets
+++Microsoft.NET.Sdk.Razor.StaticWebAssets.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.staticwebassets.targets
+++Microsoft.NET.Sdk.Razor.ScopedCss.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.scopedcss.targets
+++Microsoft.NET.Sdk.Razor.JSModules.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.jsmodules.targets
+++Microsoft.NET.Sdk.Razor.GenerateAssemblyInfo.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.generateassemblyinfo.targets
+++Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.razor\targets\microsoft.net.sdk.razor.mvcapplicationpartsdiscovery.targets
+++Microsoft.NET.Sdk.Razor.DesignTime.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\razor\microsoft.net.sdk.razor.designtime.targets
+++Microsoft.TypeScript.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.targets
+++Microsoft.TypeScript.DotNetCore.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\typescript\microsoft.typescript.dotnetcore.targets
+++Microsoft.Web.Designtime.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.designtime.targets
+++Default.pubxml
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\publishprofiles\default.pubxml
+++Microsoft.NET.Sdk.Publish.ComputeFiles.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\computetargets\microsoft.net.sdk.publish.computefiles.targets
+++Microsoft.NET.Sdk.Publish.FilterFiles.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.filterfiles.targets
+++Microsoft.NET.Sdk.Publish.CopyFiles.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\copytargets\microsoft.net.sdk.publish.copyfiles.targets
+++Microsoft.NET.Sdk.Publish.TransformFiles.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\transformtargets\microsoft.net.sdk.publish.transformfiles.targets
+++Microsoft.NET.Sdk.Publish.FileSystem.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\publishtargets\microsoft.net.sdk.publish.filesystem.targets
+++Microsoft.NET.Sdk.DotNetCLITool.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.publish\targets\dotnetclitooltargets\microsoft.net.sdk.dotnetclitool.targets
+++Microsoft.CodeAnalysis.CSharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\cs\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\de\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\es\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\fr\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\it\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ja\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ko\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pl\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pt-br\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ru\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\tr\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.csharp.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.csharp.resources.dll
+++Microsoft.CodeAnalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hant\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\cs\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\de\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\es\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\fr\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\it\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ja\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ko\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pl\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\pt-br\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\ru\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\tr\microsoft.codeanalysis.resources.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\zh-hans\microsoft.codeanalysis.resources.dll
+++Microsoft.AspNetCore.Antiforgery.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.antiforgery.dll
+++Microsoft.AspNetCore.Authentication.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authentication.abstractions.dll
+++Microsoft.AspNetCore.Authentication.Cookies.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authentication.cookies.dll
+++Microsoft.AspNetCore.Authentication.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authentication.core.dll
+++Microsoft.AspNetCore.Authentication.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authentication.dll
+++Microsoft.AspNetCore.Authentication.OAuth.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authentication.oauth.dll
+++Microsoft.AspNetCore.Authorization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authorization.dll
+++Microsoft.AspNetCore.Authorization.Policy.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.authorization.policy.dll
+++Microsoft.AspNetCore.Components.Authorization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.components.authorization.dll
+++Microsoft.AspNetCore.Components.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.components.dll
+++Microsoft.AspNetCore.Components.Forms.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.components.forms.dll
+++Microsoft.AspNetCore.Components.Server.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.components.server.dll
+++Microsoft.AspNetCore.Components.Web.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.components.web.dll
+++Microsoft.AspNetCore.Connections.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.connections.abstractions.dll
+++Microsoft.AspNetCore.CookiePolicy.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.cookiepolicy.dll
+++Microsoft.AspNetCore.Cors.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.cors.dll
+++Microsoft.AspNetCore.DataProtection.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.dataprotection.abstractions.dll
+++Microsoft.AspNetCore.DataProtection.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.dataprotection.dll
+++Microsoft.AspNetCore.DataProtection.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.dataprotection.extensions.dll
+++Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.diagnostics.abstractions.dll
+++Microsoft.AspNetCore.Diagnostics.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.diagnostics.dll
+++Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.diagnostics.healthchecks.dll
+++Microsoft.AspNetCore.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.dll
+++Microsoft.AspNetCore.HostFiltering.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.hostfiltering.dll
+++Microsoft.AspNetCore.Hosting.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.hosting.abstractions.dll
+++Microsoft.AspNetCore.Hosting.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.hosting.dll
+++Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.hosting.server.abstractions.dll
+++Microsoft.AspNetCore.Html.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.html.abstractions.dll
+++Microsoft.AspNetCore.Http.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.abstractions.dll
+++Microsoft.AspNetCore.Http.Connections.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.connections.common.dll
+++Microsoft.AspNetCore.Http.Connections.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.connections.dll
+++Microsoft.AspNetCore.Http.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.dll
+++Microsoft.AspNetCore.Http.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.extensions.dll
+++Microsoft.AspNetCore.Http.Features.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.features.dll
+++Microsoft.AspNetCore.Http.Results.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.http.results.dll
+++Microsoft.AspNetCore.HttpLogging.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.httplogging.dll
+++Microsoft.AspNetCore.HttpOverrides.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.httpoverrides.dll
+++Microsoft.AspNetCore.HttpsPolicy.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.httpspolicy.dll
+++Microsoft.AspNetCore.Identity.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.identity.dll
+++Microsoft.AspNetCore.Localization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.localization.dll
+++Microsoft.AspNetCore.Localization.Routing.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.localization.routing.dll
+++Microsoft.AspNetCore.Metadata.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.metadata.dll
+++Microsoft.AspNetCore.Mvc.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.abstractions.dll
+++Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.apiexplorer.dll
+++Microsoft.AspNetCore.Mvc.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.core.dll
+++Microsoft.AspNetCore.Mvc.Cors.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.cors.dll
+++Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.dataannotations.dll
+++Microsoft.AspNetCore.Mvc.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.formatters.json.dll
+++Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.formatters.xml.dll
+++Microsoft.AspNetCore.Mvc.Localization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.localization.dll
+++Microsoft.AspNetCore.Mvc.Razor.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.razor.dll
+++Microsoft.AspNetCore.Mvc.RazorPages.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.razorpages.dll
+++Microsoft.AspNetCore.Mvc.TagHelpers.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.taghelpers.dll
+++Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.mvc.viewfeatures.dll
+++Microsoft.AspNetCore.Razor.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.razor.dll
+++Microsoft.AspNetCore.Razor.Runtime.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.razor.runtime.dll
+++Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.responsecaching.abstractions.dll
+++Microsoft.AspNetCore.ResponseCaching.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.responsecaching.dll
+++Microsoft.AspNetCore.ResponseCompression.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.responsecompression.dll
+++Microsoft.AspNetCore.Rewrite.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.rewrite.dll
+++Microsoft.AspNetCore.Routing.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.routing.abstractions.dll
+++Microsoft.AspNetCore.Routing.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.routing.dll
+++Microsoft.AspNetCore.Server.HttpSys.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.httpsys.dll
+++Microsoft.AspNetCore.Server.IIS.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.iis.dll
+++Microsoft.AspNetCore.Server.IISIntegration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.iisintegration.dll
+++Microsoft.AspNetCore.Server.Kestrel.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.kestrel.core.dll
+++Microsoft.AspNetCore.Server.Kestrel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.kestrel.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.kestrel.transport.quic.dll
+++Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.server.kestrel.transport.sockets.dll
+++Microsoft.AspNetCore.Session.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.session.dll
+++Microsoft.AspNetCore.SignalR.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.signalr.common.dll
+++Microsoft.AspNetCore.SignalR.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.signalr.core.dll
+++Microsoft.AspNetCore.SignalR.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.signalr.dll
+++Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.signalr.protocols.json.dll
+++Microsoft.AspNetCore.StaticFiles.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.staticfiles.dll
+++Microsoft.AspNetCore.WebSockets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.websockets.dll
+++Microsoft.AspNetCore.WebUtilities.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.aspnetcore.webutilities.dll
+++Microsoft.CSharp.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.csharp.dll
+++Microsoft.Extensions.Caching.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.caching.abstractions.dll
+++Microsoft.Extensions.Caching.Memory.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.caching.memory.dll
+++Microsoft.Extensions.Configuration.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.abstractions.dll
+++Microsoft.Extensions.Configuration.Binder.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.binder.dll
+++Microsoft.Extensions.Configuration.CommandLine.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.commandline.dll
+++Microsoft.Extensions.Configuration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.dll
+++Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.environmentvariables.dll
+++Microsoft.Extensions.Configuration.FileExtensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.fileextensions.dll
+++Microsoft.Extensions.Configuration.Ini.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.ini.dll
+++Microsoft.Extensions.Configuration.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.json.dll
+++Microsoft.Extensions.Configuration.KeyPerFile.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.keyperfile.dll
+++Microsoft.Extensions.Configuration.UserSecrets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.usersecrets.dll
+++Microsoft.Extensions.Configuration.Xml.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.configuration.xml.dll
+++Microsoft.Extensions.DependencyInjection.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.dependencyinjection.abstractions.dll
+++Microsoft.Extensions.DependencyInjection.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.dependencyinjection.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.diagnostics.healthchecks.abstractions.dll
+++Microsoft.Extensions.Diagnostics.HealthChecks.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.diagnostics.healthchecks.dll
+++Microsoft.Extensions.Features.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.features.dll
+++Microsoft.Extensions.FileProviders.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.fileproviders.abstractions.dll
+++Microsoft.Extensions.FileProviders.Composite.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.fileproviders.composite.dll
+++Microsoft.Extensions.FileProviders.Physical.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.fileproviders.physical.dll
+++Microsoft.Extensions.FileSystemGlobbing.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.filesystemglobbing.dll
+++Microsoft.Extensions.Hosting.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.hosting.abstractions.dll
+++Microsoft.Extensions.Hosting.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.hosting.dll
+++Microsoft.Extensions.Http.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.http.dll
+++Microsoft.Extensions.Localization.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.localization.abstractions.dll
+++Microsoft.Extensions.Localization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.localization.dll
+++Microsoft.Extensions.Logging.Abstractions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.abstractions.dll
+++Microsoft.Extensions.Logging.Configuration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.configuration.dll
+++Microsoft.Extensions.Logging.Console.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.console.dll
+++Microsoft.Extensions.Logging.Debug.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.debug.dll
+++Microsoft.Extensions.Logging.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.dll
+++Microsoft.Extensions.Logging.EventLog.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.eventlog.dll
+++Microsoft.Extensions.Logging.EventSource.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.eventsource.dll
+++Microsoft.Extensions.Logging.TraceSource.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.logging.tracesource.dll
+++Microsoft.Extensions.ObjectPool.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.objectpool.dll
+++Microsoft.Extensions.Options.ConfigurationExtensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.options.configurationextensions.dll
+++Microsoft.Extensions.Options.DataAnnotations.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.options.dataannotations.dll
+++Microsoft.Extensions.Options.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.options.dll
+++Microsoft.Extensions.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.primitives.dll
+++Microsoft.Extensions.WebEncoders.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.extensions.webencoders.dll
+++Microsoft.JSInterop.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.jsinterop.dll
+++Microsoft.Net.Http.Headers.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.net.http.headers.dll
+++Microsoft.VisualBasic.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.visualbasic.core.dll
+++Microsoft.VisualBasic.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.visualbasic.dll
+++Microsoft.Win32.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.win32.primitives.dll
+++Microsoft.Win32.Registry.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\microsoft.win32.registry.dll
+++mscorlib.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\mscorlib.dll
+++netstandard.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\netstandard.dll
+++System.AppContext.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.appcontext.dll
+++System.Buffers.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.buffers.dll
+++System.Collections.Concurrent.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.collections.concurrent.dll
+++System.Collections.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.collections.dll
+++System.Collections.Immutable.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.collections.immutable.dll
+++System.Collections.NonGeneric.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.collections.nongeneric.dll
+++System.Collections.Specialized.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.collections.specialized.dll
+++System.ComponentModel.Annotations.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.annotations.dll
+++System.ComponentModel.DataAnnotations.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.dataannotations.dll
+++System.ComponentModel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.dll
+++System.ComponentModel.EventBasedAsync.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.eventbasedasync.dll
+++System.ComponentModel.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.primitives.dll
+++System.ComponentModel.TypeConverter.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.componentmodel.typeconverter.dll
+++System.Configuration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.configuration.dll
+++System.Console.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.console.dll
+++System.Core.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.core.dll
+++System.Data.Common.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.data.common.dll
+++System.Data.DataSetExtensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.data.datasetextensions.dll
+++System.Data.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.data.dll
+++System.Diagnostics.Contracts.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.contracts.dll
+++System.Diagnostics.Debug.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.debug.dll
+++System.Diagnostics.DiagnosticSource.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.diagnosticsource.dll
+++System.Diagnostics.EventLog.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.eventlog.dll
+++System.Diagnostics.FileVersionInfo.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.fileversioninfo.dll
+++System.Diagnostics.Process.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.process.dll
+++System.Diagnostics.StackTrace.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.stacktrace.dll
+++System.Diagnostics.TextWriterTraceListener.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.textwritertracelistener.dll
+++System.Diagnostics.Tools.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.tools.dll
+++System.Diagnostics.TraceSource.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.tracesource.dll
+++System.Diagnostics.Tracing.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.diagnostics.tracing.dll
+++System.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.dll
+++System.Drawing.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.drawing.dll
+++System.Drawing.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.drawing.primitives.dll
+++System.Dynamic.Runtime.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.dynamic.runtime.dll
+++System.Formats.Asn1.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.formats.asn1.dll
+++System.Globalization.Calendars.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.globalization.calendars.dll
+++System.Globalization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.globalization.dll
+++System.Globalization.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.globalization.extensions.dll
+++System.IO.Compression.Brotli.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.compression.brotli.dll
+++System.IO.Compression.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.compression.dll
+++System.IO.Compression.FileSystem.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.compression.filesystem.dll
+++System.IO.Compression.ZipFile.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.compression.zipfile.dll
+++System.IO.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.dll
+++System.IO.FileSystem.AccessControl.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.filesystem.accesscontrol.dll
+++System.IO.FileSystem.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.filesystem.dll
+++System.IO.FileSystem.DriveInfo.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.filesystem.driveinfo.dll
+++System.IO.FileSystem.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.filesystem.primitives.dll
+++System.IO.FileSystem.Watcher.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.filesystem.watcher.dll
+++System.IO.IsolatedStorage.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.isolatedstorage.dll
+++System.IO.MemoryMappedFiles.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.memorymappedfiles.dll
+++System.IO.Pipelines.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.pipelines.dll
+++System.IO.Pipes.AccessControl.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.pipes.accesscontrol.dll
+++System.IO.Pipes.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.pipes.dll
+++System.IO.UnmanagedMemoryStream.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.io.unmanagedmemorystream.dll
+++System.Linq.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.linq.dll
+++System.Linq.Expressions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.linq.expressions.dll
+++System.Linq.Parallel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.linq.parallel.dll
+++System.Linq.Queryable.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.linq.queryable.dll
+++System.Memory.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.memory.dll
+++System.Net.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.dll
+++System.Net.Http.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.http.dll
+++System.Net.Http.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.http.json.dll
+++System.Net.HttpListener.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.httplistener.dll
+++System.Net.Mail.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.mail.dll
+++System.Net.NameResolution.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.nameresolution.dll
+++System.Net.NetworkInformation.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.networkinformation.dll
+++System.Net.Ping.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.ping.dll
+++System.Net.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.primitives.dll
+++System.Net.Requests.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.requests.dll
+++System.Net.Security.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.security.dll
+++System.Net.ServicePoint.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.servicepoint.dll
+++System.Net.Sockets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.sockets.dll
+++System.Net.WebClient.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.webclient.dll
+++System.Net.WebHeaderCollection.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.webheadercollection.dll
+++System.Net.WebProxy.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.webproxy.dll
+++System.Net.WebSockets.Client.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.websockets.client.dll
+++System.Net.WebSockets.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.net.websockets.dll
+++System.Numerics.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.numerics.dll
+++System.Numerics.Vectors.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.numerics.vectors.dll
+++System.ObjectModel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.objectmodel.dll
+++System.Reflection.DispatchProxy.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.dispatchproxy.dll
+++System.Reflection.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.dll
+++System.Reflection.Emit.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.emit.dll
+++System.Reflection.Emit.ILGeneration.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.emit.ilgeneration.dll
+++System.Reflection.Emit.Lightweight.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.emit.lightweight.dll
+++System.Reflection.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.extensions.dll
+++System.Reflection.Metadata.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.metadata.dll
+++System.Reflection.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.primitives.dll
+++System.Reflection.TypeExtensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.reflection.typeextensions.dll
+++System.Resources.Reader.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.resources.reader.dll
+++System.Resources.ResourceManager.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.resources.resourcemanager.dll
+++System.Resources.Writer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.resources.writer.dll
+++System.Runtime.CompilerServices.Unsafe.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.compilerservices.unsafe.dll
+++System.Runtime.CompilerServices.VisualC.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.compilerservices.visualc.dll
+++System.Runtime.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.dll
+++System.Runtime.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.extensions.dll
+++System.Runtime.Handles.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.handles.dll
+++System.Runtime.InteropServices.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.interopservices.dll
+++System.Runtime.InteropServices.RuntimeInformation.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.interopservices.runtimeinformation.dll
+++System.Runtime.Intrinsics.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.intrinsics.dll
+++System.Runtime.Loader.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.loader.dll
+++System.Runtime.Numerics.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.numerics.dll
+++System.Runtime.Serialization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.serialization.dll
+++System.Runtime.Serialization.Formatters.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.serialization.formatters.dll
+++System.Runtime.Serialization.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.serialization.json.dll
+++System.Runtime.Serialization.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.serialization.primitives.dll
+++System.Runtime.Serialization.Xml.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.runtime.serialization.xml.dll
+++System.Security.AccessControl.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.accesscontrol.dll
+++System.Security.Claims.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.claims.dll
+++System.Security.Cryptography.Algorithms.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.algorithms.dll
+++System.Security.Cryptography.Cng.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.cng.dll
+++System.Security.Cryptography.Csp.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.csp.dll
+++System.Security.Cryptography.Encoding.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.encoding.dll
+++System.Security.Cryptography.OpenSsl.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.openssl.dll
+++System.Security.Cryptography.Primitives.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.primitives.dll
+++System.Security.Cryptography.X509Certificates.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.x509certificates.dll
+++System.Security.Cryptography.Xml.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.cryptography.xml.dll
+++System.Security.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.dll
+++System.Security.Principal.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.principal.dll
+++System.Security.Principal.Windows.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.principal.windows.dll
+++System.Security.SecureString.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.security.securestring.dll
+++System.ServiceModel.Web.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.servicemodel.web.dll
+++System.ServiceProcess.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.serviceprocess.dll
+++System.Text.Encoding.CodePages.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.encoding.codepages.dll
+++System.Text.Encoding.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.encoding.dll
+++System.Text.Encoding.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.encoding.extensions.dll
+++System.Text.Encodings.Web.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.encodings.web.dll
+++System.Text.Json.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.json.dll
+++System.Text.RegularExpressions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.text.regularexpressions.dll
+++System.Threading.Channels.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.channels.dll
+++System.Threading.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.dll
+++System.Threading.Overlapped.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.overlapped.dll
+++System.Threading.Tasks.Dataflow.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.tasks.dataflow.dll
+++System.Threading.Tasks.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.tasks.dll
+++System.Threading.Tasks.Extensions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.tasks.extensions.dll
+++System.Threading.Tasks.Parallel.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.tasks.parallel.dll
+++System.Threading.Thread.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.thread.dll
+++System.Threading.ThreadPool.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.threadpool.dll
+++System.Threading.Timer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.threading.timer.dll
+++System.Transactions.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.transactions.dll
+++System.Transactions.Local.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.transactions.local.dll
+++System.ValueTuple.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.valuetuple.dll
+++System.Web.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.web.dll
+++System.Web.HttpUtility.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.web.httputility.dll
+++System.Windows.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.windows.dll
+++System.Xml.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.dll
+++System.Xml.Linq.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.linq.dll
+++System.Xml.ReaderWriter.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.readerwriter.dll
+++System.Xml.Serialization.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.serialization.dll
+++System.Xml.XDocument.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.xdocument.dll
+++System.Xml.XmlDocument.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.xmldocument.dll
+++System.Xml.XmlSerializer.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.xmlserializer.dll
+++System.Xml.XPath.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.xpath.dll
+++System.Xml.XPath.XDocument.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\system.xml.xpath.xdocument.dll
+++WindowsBase.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\refs\windowsbase.dll
+++alpine-x64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\alpine-x64\
+++linux-arm
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm\
+++linux-arm64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\
+++linux-armel
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-armel\
+++linux-mips64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-mips64\
+++linux-musl-x64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-musl-x64\
+++linux-s390x
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-s390x\
+++linux-x64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\
+++linux-x86
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x86\
+++osx-arm64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-arm64\
+++osx-x64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-x64\
+++unix
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\
+++win
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\
+++win-arm
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm\
+++win-arm64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\
+++win-x64
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\
+++win-x86
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\
+++160ed64b6e1636da6c3ece619acd929490d5b879-lastsynced.txt
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\distcache\160ed64b6e1636da6c3ece619acd929490d5b879-lastsynced.txt
+++1e0de62ed7ba7412302b8c34440e64d030bd2590-lastsynced.txt
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\distcache\1e0de62ed7ba7412302b8c34440e64d030bd2590-lastsynced.txt
+++ExternalIndex
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\
+++InternalIndex
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\
+++MembersIndex
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\membersindex\
+++NuCache.Content.db
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\nucache\nucache.content.db
+++NuCache.Media.db
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\nucache\nucache.media.db
+++Umbraco.Cms.StaticAssets.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms.staticassets\10.1.0\buildtransitive\umbraco.cms.staticassets.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms.staticassets\10.1.0\buildmultitargeting\umbraco.cms.staticassets.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms.staticassets\10.1.0\build\umbraco.cms.staticassets.props
+++Umbraco.Cms.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms\10.1.0\buildtransitive\umbraco.cms.props
+++Microsoft.NuGet.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\nuget\17.0\microsoft.nuget.props
+++Microsoft.NETCoreSdk.BundledVersions.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\microsoft.netcoresdk.bundledversions.props
+++Microsoft.NET.Sdk.WindowsDesktop.WindowsForms.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.windowsforms.props
+++Microsoft.NET.Sdk.WindowsDesktop.WPF.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.windowsdesktop\targets\microsoft.net.sdk.windowsdesktop.wpf.props
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.android\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.ios\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maccatalyst\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.macos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.maui\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.sdk.tvos\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.emscripten\workloadmanifest.targets
+++WorkloadManifest.targets (C:\Program Files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain)
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk-manifests\6.0.300\microsoft.net.workload.mono.toolchain\workloadmanifest.targets
+++Microsoft.CSharp.Core.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.csharp.core.targets
+++Microsoft.CSharp.DesignTime.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.csharp.designtime.targets
+++Microsoft.Common.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.targets
+++Microsoft.ServiceModel.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.servicemodel.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.servicemodel.targets
+++Microsoft.NET.Sdk.DefaultItems.Shared.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.sdk.defaultitems.shared.targets
+++Microsoft.NETCoreSdk.BundledCliTools.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\microsoft.netcoresdk.bundledclitools.props
+++Microsoft.NET.DefaultPackageConflictOverrides.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\targets\microsoft.net.defaultpackageconflictoverrides.targets
+++Microsoft.CodeAnalysis.NetAnalyzers.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.props
+++Microsoft.CodeAnalysis.NetAnalyzers.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk\analyzers\build\microsoft.codeanalysis.netanalyzers.targets
+++native
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\alpine-x64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-armel\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-mips64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-musl-x64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-s390x\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x86\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-arm64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-x64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\
+++lib
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\lib\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\
+++json
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\views\media\json\
+++_3.cfe
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\_3.cfe
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\_3.cfe
+++_3.cfs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\_3.cfs
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\_3.cfs
+++_3.si
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\_3.si
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\_3.si
+++segments.gen
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\segments.gen
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\segments.gen
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\membersindex\segments.gen
+++segments_7
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\segments_7
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\segments_7
+++write.lock
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\externalindex\write.lock
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\internalindex\write.lock
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\membersindex\write.lock
+++segments_5
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\umbraco\data\temp\examineindexes\membersindex\segments_5
+++Microsoft.NET.ILLink.Tasks.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.illink.tasks\build\microsoft.net.illink.tasks.props
+++System.Windows.Forms.Analyzers.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\dotnet\sdk\6.0.308\sdks\microsoft.net.sdk.windowsdesktop\targets\system.windows.forms.analyzers.props
+++Microsoft.Managed.Core.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.targets
+++Microsoft.Managed.DesignTime.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed\microsoft.managed.designtime.targets
+++Microsoft.Common.CurrentVersion.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.common.currentversion.targets
+++libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\alpine-x64\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+++libicudata.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\native\libicudata.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\native\libicudata.so.68.2.0.9
+++libicui18n.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\native\libicui18n.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\native\libicui18n.so.68.2.0.9
+++libicuuc.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-x64\native\libicuuc.so.68.2.0.9
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\linux-arm64\native\libicuuc.so.68.2.0.9
+++libe_sqlite3.dylib
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+++netcoreapp3.1
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\unix\lib\netcoreapp3.1\
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\netcoreapp3.1\
+++netstandard2.0
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win\lib\netstandard2.0\
+++e_sqlite3.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+++Microsoft.Data.SqlClient.SNI.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm\native\microsoft.data.sqlclient.sni.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\microsoft.data.sqlclient.sni.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\microsoft.data.sqlclient.sni.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\microsoft.data.sqlclient.sni.dll
+++icudt68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\icudt68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\icudt68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\icudt68.dll
+++icuin68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\icuin68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\icuin68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\icuin68.dll
+++icuuc68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-arm64\native\icuuc68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x64\native\icuuc68.dll
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\bin\debug\net6.0\runtimes\win-x86\native\icuuc68.dll
+++Microsoft.Managed.Core.CurrentVersions.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\roslyn\microsoft.managed.core.currentversions.targets
+++Microsoft.Cpp.VCLibs120Universal.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.cpp.vclibs120universal.targets
+++Microsoft.Net.CoreRuntime.ImportBefore.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.net.coreruntime.importbefore.targets
+++Microsoft.NetNative.ImportBefore.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importbefore\microsoft.netnative.importbefore.targets
+++Page.Site.csproj.user
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\desktop\sqlinkassignment\page.site\page.site.csproj.user
+++Microsoft.NET.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.net.props
+++Microsoft.CodeAnalysis.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\codeanalysis\microsoft.codeanalysis.targets
+++Microsoft.Xaml.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.xaml.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.xaml.targets
+++Microsoft.WorkflowBuildExtensions.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\bin\amd64\microsoft.workflowbuildextensions.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\windows\microsoft.net\framework\v4.0.30319\microsoft.workflowbuildextensions.targets
+++Microsoft.TeamTest.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\teamtest\microsoft.teamtest.targets
+++NuGet.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\common7\ide\commonextensions\microsoft\nuget\nuget.targets
+++Microsoft.DesktopBridge.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.desktopbridge.importafter.targets
+++Microsoft.Docker.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.docker.importafter.targets
+++Microsoft.NET.Build.Extensions.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.build.extensions.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\microsoft.net.build.extensions\microsoft.net.build.extensions.targets
+++Microsoft.Net.CoreRuntime.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.net.coreruntime.importafter.targets
+++Microsoft.NetNative.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.netnative.importafter.targets
+++Microsoft.NuGet.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.nuget.importafter.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.visualstudio.azure.fabric.serviceproject.importafter.targets
+++Microsoft.Web.ImportAfter.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\microsoft.web.importafter.targets
+++Xamarin.Common.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\current\microsoft.common.targets\importafter\xamarin.common.targets
+++Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\6.0.5\buildtransitive\net6.0\microsoft.aspnetcore.mvc.razor.runtimecompilation.targets
+++Umbraco.Cms.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms\10.1.0\buildtransitive\umbraco.cms.targets
+++Microsoft.AspNetCore.StaticWebAssets.props
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\users\games.desktop-ph52o9o\.nuget\packages\umbraco.cms.staticassets\10.1.0\build\microsoft.aspnetcore.staticwebassets.props
+++Microsoft.DesktopBridge.Common.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\desktopbridge\microsoft.desktopbridge.common.targets
+++Microsoft.Docker.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\sdks\microsoft.docker.sdk\build\microsoft.docker.targets
+++Microsoft.VisualStudio.Azure.Fabric.ServiceProject.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\v17.0\service fabric tools\microsoft.visualstudio.azure.fabric.serviceproject.targets
+++Microsoft.Web.IISSupport.targets
+i:{4dfcfbf8-4011-402f-bc30-7a89bf7bc1b9}:c:\program files\microsoft visual studio\2022\community\msbuild\microsoft\visualstudio\managed.web\microsoft.web.iissupport.targets
